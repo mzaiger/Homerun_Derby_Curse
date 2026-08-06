@@ -1,6 +1,6 @@
 # Home Run Derby Curse 🏆
 
-A tracker for the "Home Run Derby Curse" — the long-running baseball superstition that players who participate in the MLB Home Run Derby see their second-half power numbers drop off. The project pulls each derby contestant's pre- and post-All-Star-break hitting splits from the MLB Stats API and displays the year-over-year "curse" effect in a simple web page.
+A tracker for the "Home Run Derby Curse" — the long-running baseball superstition that players who participate in the MLB Home Run Derby see their second-half power numbers drop off. This project pulls each derby contestant's pre- and post-All-Star-break hitting splits from the MLB Stats API and displays the year-over-year "curse" effect in a simple web page.
 
 ## How it works
 
