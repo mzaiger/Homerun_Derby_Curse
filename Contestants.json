@@ -1,0 +1,635 @@
+{
+  "source": "Home Run Derby - BR Bullpen",
+  "event": "MLB All-Star Home Run Derby",
+  "generated": "2026-08-06",
+  "note": "Contestants from the Yearly Results sections. 1988 and 2020 were cancelled, so they have empty contestant lists. Players who appeared in multiple years are listed in each relevant year.",
+  "contestants_by_year": [
+    {
+      "year": 1985,
+      "contestants": [
+        "Jim Rice",
+        "Eddie Murray",
+        "Carlton Fisk",
+        "Tom Brunansky",
+        "Cal Ripken Jr.",
+        "Dave Parker",
+        "Dale Murphy",
+        "Steve Garvey",
+        "Ryne Sandberg",
+        "Jack Clark"
+      ],
+      "winner": "Dave Parker",
+      "runner_up": "Five players tied"
+    },
+    {
+      "year": 1986,
+      "contestants": [
+        "Wally Joyner",
+        "Jesse Barfield",
+        "Jose Canseco",
+        "Darryl Strawberry",
+        "Dave Parker",
+        "Hubie Brooks"
+      ],
+      "winner": [
+        "Wally Joyner",
+        "Darryl Strawberry"
+      ],
+      "runner_up": "Dave Parker"
+    },
+    {
+      "year": 1987,
+      "contestants": [
+        "George Bell",
+        "Mark McGwire",
+        "Andre Dawson",
+        "Ozzie Virgil"
+      ],
+      "winner": "Andre Dawson",
+      "runner_up": "Ozzie Virgil"
+    },
+    {
+      "year": 1988,
+      "contestants": []
+    },
+    {
+      "year": 1989,
+      "contestants": [
+        "Ruben Sierra",
+        "Mickey Tettleton",
+        "Bo Jackson",
+        "Gary Gaetti",
+        "Eric Davis",
+        "Glenn Davis",
+        "Howard Johnson",
+        "Kevin Mitchell"
+      ],
+      "winner": [
+        "Ruben Sierra",
+        "Eric Davis"
+      ],
+      "runner_up": [
+        "Glenn Davis",
+        "Howard Johnson",
+        "Kevin Mitchell"
+      ]
+    },
+    {
+      "year": 1990,
+      "contestants": [
+        "Mark McGwire",
+        "Ken Griffey Jr.",
+        "Jose Canseco",
+        "Cecil Fielder",
+        "Ryne Sandberg",
+        "Matt Williams",
+        "Bobby Bonilla",
+        "Darryl Strawberry"
+      ],
+      "winner": "Ryne Sandberg",
+      "runner_up": [
+        "Mark McGwire",
+        "Matt Williams"
+      ]
+    },
+    {
+      "year": 1991,
+      "contestants": [
+        "Cal Ripken Jr.",
+        "Cecil Fielder",
+        "Joe Carter",
+        "Danny Tartabull",
+        "Paul O'Neill",
+        "George Bell",
+        "Chris Sabo",
+        "Howard Johnson"
+      ],
+      "winner": "Cal Ripken Jr.",
+      "runner_up": "Paul O'Neill"
+    },
+    {
+      "year": 1992,
+      "contestants": [
+        "Mark McGwire",
+        "Ken Griffey Jr.",
+        "Joe Carter",
+        "Cal Ripken Jr.",
+        "Larry Walker",
+        "Gary Sheffield",
+        "Fred McGriff",
+        "Barry Bonds"
+      ],
+      "winner": "Mark McGwire",
+      "runner_up": "Ken Griffey Jr."
+    },
+    {
+      "year": 1993,
+      "contestants": [
+        "Juan Gonzalez",
+        "Ken Griffey Jr.",
+        "Cecil Fielder",
+        "Albert Belle",
+        "Barry Bonds",
+        "Bobby Bonilla",
+        "David Justice",
+        "Mike Piazza"
+      ],
+      "winner": "Juan Gonzalez",
+      "runner_up": "Ken Griffey Jr."
+    },
+    {
+      "year": 1994,
+      "contestants": [
+        "Ken Griffey Jr.",
+        "Ruben Sierra",
+        "Frank Thomas",
+        "Albert Belle",
+        "Fred McGriff",
+        "Jeff Bagwell",
+        "Dante Bichette",
+        "Mike Piazza"
+      ],
+      "winner": "Ken Griffey Jr.",
+      "runner_up": "Fred McGriff"
+    },
+    {
+      "year": 1995,
+      "contestants": [
+        "Frank Thomas",
+        "Albert Belle",
+        "Mo Vaughn",
+        "Ron Gant",
+        "Manny Ramirez",
+        "Raul Mondesi",
+        "Reggie Sanders",
+        "Sammy Sosa"
+      ],
+      "winner": "Frank Thomas",
+      "runner_up": "Albert Belle"
+    },
+    {
+      "year": 1996,
+      "contestants": [
+        "Barry Bonds",
+        "Mark McGwire",
+        "Brady Anderson",
+        "Jay Buhner",
+        "Henry Rodriguez",
+        "Jeff Bagwell",
+        "Joe Carter",
+        "Ellis Burks",
+        "Gary Sheffield",
+        "Greg Vaughn"
+      ],
+      "winner": "Barry Bonds",
+      "runner_up": "Mark McGwire"
+    },
+    {
+      "year": 1997,
+      "contestants": [
+        "Tino Martinez",
+        "Larry Walker",
+        "Mark McGwire",
+        "Jeff Bagwell",
+        "Brady Anderson",
+        "Ken Griffey Jr.",
+        "Chipper Jones",
+        "Ray Lankford",
+        "Nomar Garciaparra",
+        "Jim Thome"
+      ],
+      "winner": "Tino Martinez",
+      "runner_up": "Larry Walker"
+    },
+    {
+      "year": 1998,
+      "contestants": [
+        "Ken Griffey Jr.",
+        "Jim Thome",
+        "Vinny Castilla",
+        "Rafael Palmeiro",
+        "Moises Alou",
+        "Javy Lopez",
+        "Alex Rodriguez",
+        "Mark McGwire",
+        "Damion Easley",
+        "Chipper Jones"
+      ],
+      "winner": "Ken Griffey Jr.",
+      "runner_up": "Jim Thome"
+    },
+    {
+      "year": 1999,
+      "contestants": [
+        "Ken Griffey Jr.",
+        "Jeromy Burnitz",
+        "Mark McGwire",
+        "Jeff Bagwell",
+        "Larry Walker",
+        "Nomar Garciaparra",
+        "B.J. Surhoff",
+        "Shawn Green",
+        "Sammy Sosa",
+        "John Jaha"
+      ],
+      "winner": "Ken Griffey Jr.",
+      "runner_up": "Jeromy Burnitz"
+    },
+    {
+      "year": 2000,
+      "contestants": [
+        "Sammy Sosa",
+        "Ken Griffey Jr.",
+        "Carl Everett",
+        "Carlos Delgado",
+        "Edgar Martinez",
+        "Chipper Jones",
+        "Vladimir Guerrero",
+        "Ivan Rodriguez"
+      ],
+      "winner": "Sammy Sosa",
+      "runner_up": "Ken Griffey Jr."
+    },
+    {
+      "year": 2001,
+      "contestants": [
+        "Luis Gonzalez",
+        "Sammy Sosa",
+        "Jason Giambi",
+        "Barry Bonds",
+        "Alex Rodriguez",
+        "Bret Boone",
+        "Todd Helton",
+        "Troy Glaus"
+      ],
+      "winner": "Luis Gonzalez",
+      "runner_up": "Sammy Sosa"
+    },
+    {
+      "year": 2002,
+      "contestants": [
+        "Jason Giambi",
+        "Sammy Sosa",
+        "Paul Konerko",
+        "Richie Sexson",
+        "Torii Hunter",
+        "Alex Rodriguez",
+        "Barry Bonds",
+        "Lance Berkman"
+      ],
+      "winner": "Jason Giambi",
+      "runner_up": "Sammy Sosa"
+    },
+    {
+      "year": 2003,
+      "contestants": [
+        "Garret Anderson",
+        "Albert Pujols",
+        "Jason Giambi",
+        "Jim Edmonds",
+        "Gary Sheffield",
+        "Carlos Delgado",
+        "Richie Sexson",
+        "Bret Boone"
+      ],
+      "winner": "Garret Anderson",
+      "runner_up": "Albert Pujols"
+    },
+    {
+      "year": 2004,
+      "contestants": [
+        "Miguel Tejada",
+        "Lance Berkman",
+        "Rafael Palmeiro",
+        "Barry Bonds",
+        "Sammy Sosa",
+        "Jim Thome",
+        "Hank Blalock",
+        "David Ortiz"
+      ],
+      "winner": "Miguel Tejada",
+      "runner_up": "Lance Berkman"
+    },
+    {
+      "year": 2005,
+      "contestants": [
+        "Bobby Abreu",
+        "Ivan Rodriguez",
+        "Carlos Lee",
+        "David Ortiz",
+        "Hee-Seop Choi",
+        "Andruw Jones",
+        "Mark Teixeira",
+        "Jason Bay"
+      ],
+      "winner": "Bobby Abreu",
+      "runner_up": "Ivan Rodriguez"
+    },
+    {
+      "year": 2006,
+      "contestants": [
+        "Ryan Howard",
+        "David Wright",
+        "Miguel Cabrera",
+        "David Ortiz",
+        "Jermaine Dye",
+        "Miguel Tejada",
+        "Lance Berkman",
+        "Troy Glaus"
+      ],
+      "winner": "Ryan Howard",
+      "runner_up": "David Wright"
+    },
+    {
+      "year": 2007,
+      "contestants": [
+        "Vladimir Guerrero",
+        "Alex Rios",
+        "Matt Holliday",
+        "Albert Pujols",
+        "Justin Morneau",
+        "Prince Fielder",
+        "Ryan Howard",
+        "Magglio Ordóñez"
+      ],
+      "winner": "Vladimir Guerrero",
+      "runner_up": "Alex Rios"
+    },
+    {
+      "year": 2008,
+      "contestants": [
+        "Justin Morneau",
+        "Josh Hamilton",
+        "Lance Berkman",
+        "Ryan Braun",
+        "Grady Sizemore",
+        "Dan Uggla",
+        "Chase Utley",
+        "Evan Longoria"
+      ],
+      "winner": "Justin Morneau",
+      "runner_up": "Josh Hamilton"
+    },
+    {
+      "year": 2009,
+      "contestants": [
+        "Prince Fielder",
+        "Nelson Cruz",
+        "Ryan Howard",
+        "Albert Pujols",
+        "Carlos Pena",
+        "Joe Mauer",
+        "Adrian Gonzalez",
+        "Brandon Inge"
+      ],
+      "winner": "Prince Fielder",
+      "runner_up": "Nelson Cruz"
+    },
+    {
+      "year": 2010,
+      "contestants": [
+        "David Ortiz",
+        "Hanley Ramirez",
+        "Corey Hart",
+        "Miguel Cabrera",
+        "Matt Holliday",
+        "Nick Swisher",
+        "Vernon Wells",
+        "Chris Young"
+      ],
+      "winner": "David Ortiz",
+      "runner_up": "Hanley Ramirez"
+    },
+    {
+      "year": 2011,
+      "contestants": [
+        "Robinson Cano",
+        "Adrian Gonzalez",
+        "Prince Fielder",
+        "David Ortiz",
+        "Matt Holliday",
+        "Jose Bautista",
+        "Rickie Weeks",
+        "Matt Kemp"
+      ],
+      "winner": "Robinson Cano",
+      "runner_up": "Adrian Gonzalez"
+    },
+    {
+      "year": 2012,
+      "contestants": [
+        "Prince Fielder",
+        "Jose Bautista",
+        "Mark Trumbo",
+        "Carlos Beltran",
+        "Carlos Gonzalez",
+        "Andrew McCutchen",
+        "Matt Kemp",
+        "Robinson Cano"
+      ],
+      "winner": "Prince Fielder",
+      "runner_up": "Jose Bautista"
+    },
+    {
+      "year": 2013,
+      "contestants": [
+        "Yoenis Cespedes",
+        "Bryce Harper",
+        "Michael Cuddyer",
+        "Chris Davis",
+        "Pedro Alvarez",
+        "Prince Fielder",
+        "David Wright",
+        "Robinson Cano"
+      ],
+      "winner": "Yoenis Cespedes",
+      "runner_up": "Bryce Harper"
+    },
+    {
+      "year": 2014,
+      "contestants": [
+        "Yoenis Cespedes",
+        "Todd Frazier",
+        "Jose Bautista",
+        "Adam Jones",
+        "Giancarlo Stanton",
+        "Troy Tulowitzki",
+        "Josh Donaldson",
+        "Justin Morneau",
+        "Brian Dozier",
+        "Yasiel Puig"
+      ],
+      "winner": "Yoenis Cespedes",
+      "runner_up": "Todd Frazier"
+    },
+    {
+      "year": 2015,
+      "contestants": [
+        "Albert Pujols",
+        "Kris Bryant",
+        "Manny Machado",
+        "Joc Pederson",
+        "Josh Donaldson",
+        "Anthony Rizzo",
+        "Prince Fielder",
+        "Todd Frazier"
+      ],
+      "winner": "Todd Frazier",
+      "runner_up": "Joc Pederson"
+    },
+    {
+      "year": 2016,
+      "contestants": [
+        "Mark Trumbo",
+        "Corey Seager",
+        "Giancarlo Stanton",
+        "Robinson Cano",
+        "Adam Duvall",
+        "Wil Myers",
+        "Carlos Gonzalez",
+        "Todd Frazier"
+      ],
+      "winner": "Giancarlo Stanton",
+      "runner_up": "Todd Frazier"
+    },
+    {
+      "year": 2017,
+      "contestants": [
+        "Giancarlo Stanton",
+        "Gary Sanchez",
+        "Miguel Sano",
+        "Mike Moustakas",
+        "Cody Bellinger",
+        "Charlie Blackmon",
+        "Justin Bour",
+        "Aaron Judge"
+      ],
+      "winner": "Aaron Judge",
+      "runner_up": "Miguel Sano"
+    },
+    {
+      "year": 2018,
+      "contestants": [
+        "Jesus Aguilar",
+        "Rhys Hoskins",
+        "Alex Bregman",
+        "Kyle Schwarber",
+        "Bryce Harper",
+        "Freddie Freeman",
+        "Max Muncy",
+        "Javier Baez"
+      ],
+      "winner": "Bryce Harper",
+      "runner_up": "Kyle Schwarber"
+    },
+    {
+      "year": 2019,
+      "contestants": [
+        "Matt Chapman",
+        "Vladimir Guerrero Jr.",
+        "Joc Pederson",
+        "Alex Bregman",
+        "Josh Bell",
+        "Ronald Acuna",
+        "Carlos Santana",
+        "Pete Alonso"
+      ],
+      "winner": "Pete Alonso",
+      "runner_up": "Vladimir Guerrero Jr."
+    },
+    {
+      "year": 2020,
+      "contestants": []
+    },
+    {
+      "year": 2021,
+      "contestants": [
+        "Shohei Ohtani",
+        "Juan Soto",
+        "Pete Alonso",
+        "Salvador Perez",
+        "Matt Olson",
+        "Trey Mancini",
+        "Trevor Story",
+        "Joey Gallo"
+      ],
+      "winner": "Pete Alonso",
+      "runner_up": "Trey Mancini"
+    },
+    {
+      "year": 2022,
+      "contestants": [
+        "Kyle Schwarber",
+        "Albert Pujols",
+        "José Ramírez",
+        "Juan Soto",
+        "Corey Seager",
+        "Julio Rodríguez",
+        "Ronald Acuna",
+        "Pete Alonso"
+      ],
+      "winner": "Juan Soto",
+      "runner_up": "Julio Rodríguez"
+    },
+    {
+      "year": 2023,
+      "contestants": [
+        "Luis Robert Jr.",
+        "Adley Rutschman",
+        "Randy Arozarena",
+        "Adolis Garcia",
+        "Mookie Betts",
+        "Vladimir Guerrero Jr.",
+        "Julio Rodríguez",
+        "Pete Alonso"
+      ],
+      "winner": "Vladimir Guerrero Jr.",
+      "runner_up": "Randy Arozarena"
+    },
+    {
+      "year": 2024,
+      "contestants": [
+        "Alec Bohm",
+        "Bobby Witt Jr.",
+        "Adolis Garcia",
+        "Teoscar Hernandez",
+        "Pete Alonso",
+        "José Ramírez",
+        "Marcell Ozuna",
+        "Gunnar Henderson"
+      ],
+      "winner": "Teoscar Hernández",
+      "runner_up": "Bobby Witt Jr."
+    },
+    {
+      "year": 2025,
+      "contestants": [
+        "Matt Olson",
+        "Cal Raleigh",
+        "Jazz Chisholm",
+        "Byron Buxton",
+        "Oneil Cruz",
+        "Junior Caminero",
+        "Brent Rooker",
+        "James Wood"
+      ],
+      "winner": "Cal Raleigh",
+      "runner_up": "Junior Caminero"
+    },
+    {
+      "year": 2026,
+      "contestants": [
+        "Willson Contreras",
+        "Jordan Walker",
+        "Jac Caglianone",
+        "Munetaka Murakami",
+        "Ben Rice",
+        "Junior Caminero",
+        "Kyle Schwarber",
+        "Bryce Harper"
+      ],
+      "winner": "Jordan Walker",
+      "runner_up": "Kyle Schwarber"
+    }
+  ]
+}
