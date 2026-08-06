@@ -290,8 +290,8 @@ function render(contestants) {
   const content = document.getElementById("content");
   try {
     const [contestants, splits] = await Promise.all([
-      fetch("Contestants.json").then(r => { if (!r.ok) throw new Error("Contestants.json"); return r.json(); }),
-      fetch("derby_splits.json").then(r => { if (!r.ok) throw new Error("derby_splits.json"); return r.json(); })
+      fetch("Contestants.json?t=" + Date.now()).then(r => { if (!r.ok) throw new Error("Contestants.json"); return r.json(); }),
+      fetch("derby_splits.json?t=" + Date.now()).then(r => { if (!r.ok) throw new Error("derby_splits.json"); return r.json(); })
     ]);
 
     // Index split records by year + normalized name (derby name, with API name as fallback)
